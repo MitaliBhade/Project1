@@ -6,7 +6,7 @@ public class StreamClass {
 		// TODO Auto-generated method stub
 		
 		String myname = "Mitali Bhade";
-		System.out.Println(myname);
+		System.out.println(myname);
 
 	}
 
