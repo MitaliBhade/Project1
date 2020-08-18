@@ -15,7 +15,7 @@ public class ZonedTime {
     String formattedCurrentDate = date.format(format1); 
       
     System.out.println("formatted current Date and"+ 
-                      " Time : "+formattedCurrentDate);  
+                      " Time as required : "+formattedCurrentDate);  
   
     // to get the current zone 
     ZonedDateTime currentZone = ZonedDateTime.now();  
